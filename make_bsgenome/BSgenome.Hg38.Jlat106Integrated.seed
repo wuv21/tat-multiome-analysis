@@ -1,0 +1,13 @@
+Package: BSgenome.Hg38.Jlat106Integrated
+Title: Full genome sequence for Hg38 with JLat10.6 HIV integrated
+Description: Full genome sequence for Hg38 with JLat10.6 HIV integrated
+Version: 1.0.0
+organism: Homo sapiens
+common_name: Homo sapiens
+provider: Ensembl/NCBI
+genome: GRCh38
+release_date: 2023-09-20
+organism_biocview: Homo_sapiens
+BSgenomeObjname: hg38_jlat106Integrated
+seqs_srcdir: /data/tat_multiome/tat_multiome_early_analysis/make_bsgenome/seqs
+seqfile_name: hg38_jlat_integrated.2bit
